@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"github.com/vivekanandareddy-ponugoti/Blog/tree/main/code/CRUD-Book-Management-System/package/routes"
+	"github.com/vivekanandareddy-ponugoti/CRUD-Book-Management-System/package/routes"
 )
 
 func main() {
